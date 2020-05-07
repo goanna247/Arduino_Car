@@ -1,0 +1,132 @@
+[
+  {
+    "Sourcefile": null,
+    "Include": "",
+    "Includepath": "C:\\Program Files (x86)\\Arduino\\hardware\\arduino\\avr\\cores\\arduino"
+  },
+  {
+    "Sourcefile": null,
+    "Include": "",
+    "Includepath": "C:\\Program Files (x86)\\Arduino\\hardware\\arduino\\avr\\variants\\standard"
+  },
+  {
+    "Sourcefile": "c:\\Users\\61412\\Documents\\code\\Arduino stuff\\Car\\build\\sketch\\directions.cpp.cpp",
+    "Include": "boarddefs.h",
+    "Includepath": "C:\\Users\\61412\\OneDrive\\Documents\\Arduino\\libraries\\IRremote"
+  },
+  {
+    "Sourcefile": "c:\\Users\\61412\\Documents\\code\\Arduino stuff\\Car\\build\\sketch\\directions.cpp.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\61412\\OneDrive\\Documents\\Arduino\\libraries\\IRremote\\IRremote.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\61412\\OneDrive\\Documents\\Arduino\\libraries\\IRremote\\esp32.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\61412\\OneDrive\\Documents\\Arduino\\libraries\\IRremote\\irPronto.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\61412\\OneDrive\\Documents\\Arduino\\libraries\\IRremote\\irRecv.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\61412\\OneDrive\\Documents\\Arduino\\libraries\\IRremote\\irSend.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\61412\\OneDrive\\Documents\\Arduino\\libraries\\IRremote\\ir_Aiwa.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\61412\\OneDrive\\Documents\\Arduino\\libraries\\IRremote\\ir_Denon.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\61412\\OneDrive\\Documents\\Arduino\\libraries\\IRremote\\ir_Dish.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\61412\\OneDrive\\Documents\\Arduino\\libraries\\IRremote\\ir_JVC.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\61412\\OneDrive\\Documents\\Arduino\\libraries\\IRremote\\ir_LG.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\61412\\OneDrive\\Documents\\Arduino\\libraries\\IRremote\\ir_Lego_PF.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\61412\\OneDrive\\Documents\\Arduino\\libraries\\IRremote\\ir_Mitsubishi.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\61412\\OneDrive\\Documents\\Arduino\\libraries\\IRremote\\ir_NEC.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\61412\\OneDrive\\Documents\\Arduino\\libraries\\IRremote\\ir_Panasonic.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\61412\\OneDrive\\Documents\\Arduino\\libraries\\IRremote\\ir_RC5_RC6.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\61412\\OneDrive\\Documents\\Arduino\\libraries\\IRremote\\ir_Samsung.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\61412\\OneDrive\\Documents\\Arduino\\libraries\\IRremote\\ir_Sanyo.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\61412\\OneDrive\\Documents\\Arduino\\libraries\\IRremote\\ir_Sharp.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\61412\\OneDrive\\Documents\\Arduino\\libraries\\IRremote\\ir_Sony.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\61412\\OneDrive\\Documents\\Arduino\\libraries\\IRremote\\ir_Template.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\61412\\OneDrive\\Documents\\Arduino\\libraries\\IRremote\\ir_Whynter.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\61412\\OneDrive\\Documents\\Arduino\\libraries\\IRremote\\sam.cpp",
+    "Include": "",
+    "Includepath": null
+  }
+]
